@@ -2,7 +2,7 @@
 # React源码剖析系列 － 玩转 React Transition
 
 
-过去一年，React 给整个前端界带来了一种新的开发方式，我们抛弃了无所不能的 DOM 操作。对于 React 实现动画这个命题，DOM 操作已经是一条死路，而 CSS3 动画又只能实现一些最简单的功能。这时候 ReactCSSTransitionGroup Addon，无疑是一枚强心剂，能够帮助我们以最低的成本实现例如节点初次渲染、节点被删除时添加动效的需求。本文将会深入实现原理来玩转 ReactCSSTransitionGroup。
+过去一年，React 给整个前端界带来了一种新的开发方式，我们抛弃了无所不能的 DOM 操作。对于 React 实现动画这个命题，DOM 操作已经是一条死路，而 CSS3 动画又只能实现一些最简单的功能。这时候 **ReactCSSTransitionGroup Addon**，无疑是一枚强心剂，能够帮助我们以最低的成本实现例如节点初次渲染、节点被删除时添加动效的需求。本文将会深入实现原理来玩转 ReactCSSTransitionGroup。
 
 ### 初窥 ReactCSSTransitionGroup
 
