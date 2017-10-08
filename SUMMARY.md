@@ -9,5 +9,7 @@
 * [链接](links/README.md)
   - [链接集合](links/index.md)
   - [链接收藏](links/链接收藏.md)
+* [书籍](books/README.md)
+  - [WEBGL高级编程开发WEB3D图形 PDF电子书下载带书签目录](books/WEBGL高级编程开发WEB3D图形PDF电子书下载带书签目录.md)
 
 
